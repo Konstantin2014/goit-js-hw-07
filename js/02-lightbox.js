@@ -1,6 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 // знаю что натупил, но понять где не могу
+// собирал из трех источников, поэтому нужна помощь ментора
 
 console.log(galleryItems);
 
